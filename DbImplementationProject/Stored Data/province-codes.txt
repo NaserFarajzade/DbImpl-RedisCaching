@@ -1,0 +1,31 @@
+﻿azarbayejan sharqi-041
+azarbayejan qarbi-044
+ilam-084
+ardebil-045
+esfahan-031
+bushehr-077
+tehran-021
+charmahal va bakhtiari-038
+khorasan razavi-051
+khorasan jonubi-056
+khorasan shomali-058
+khuzestan-061
+zanjan-024
+semnan-023
+sistan va baluchestan-054
+fars-071
+karaj-026
+qom-025
+qazvin-028
+kordestan-087
+kerman-034
+kermanshah-083
+kohkeloye va boyer ahmad-074
+golestan-017
+gilan-013
+lorestan-066
+mazandaran-011
+markazi-086
+hormozgan-076
+hamedan-081
+yazd-035
